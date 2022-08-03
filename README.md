@@ -2,5 +2,18 @@
 My Fintech ETF is a financial database and web application created to analyze the performance of a hypothetical fintech ETF.
 ---
 ## Required libraries
-* numpy * pandas *hvplot * sqlalchemy
+* numpy 
+* pandas
+* hvplot
+* sqlalchemy
 ---
+
+
+
+
+
+
+
+
+
+
