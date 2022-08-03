@@ -7,6 +7,11 @@ My Fintech ETF is a financial database and web application created to analyze th
 * hvplot
 * sqlalchemy
 ---
+## Technologies
+
+* [Pandas]
+* [SQLAlchemy]
+
 
 
 
