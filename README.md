@@ -12,6 +12,9 @@ My Fintech ETF is a financial database and web application created to analyze th
 * [Pandas]
 * [SQLAlchemy]
 
+### Contributers
+Hugo Velazquez 
+
 
 
 
