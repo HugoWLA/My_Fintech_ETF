@@ -14,7 +14,7 @@ My Fintech ETF is a financial database and web application created to analyze th
 * Voila
 
 ## Voila
-![Voila Screenshot](/Voilademo.png)
+![Voila Screenshot](voilademo.png)
 
 
 ### Contributers
