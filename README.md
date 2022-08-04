@@ -13,8 +13,7 @@ My Fintech ETF is a financial database and web application created to analyze th
 * [SQLAlchemy]
 * Voila
 
-*Voila*
-![voilademo](Desktop)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
 
